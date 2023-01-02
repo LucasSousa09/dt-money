@@ -15,6 +15,30 @@
       "category": "Alimentação",
       "price": 120,
       "createdAt": "2023-01-01T13:45:20.315Z"
+    },
+    {
+      "description": "Uma Idéia brilhante",
+      "price": 1000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-01-02T17:51:38.113Z",
+      "id": 3
+    },
+    {
+      "description": "LALALALA",
+      "price": 40,
+      "category": "Nenhuma",
+      "type": "outcome",
+      "createdAt": "2023-01-02T18:05:48.657Z",
+      "id": 4
+    },
+    {
+      "description": "Sorvete",
+      "price": 20,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-01-02T18:06:51.617Z",
+      "id": 5
     }
   ]
 }

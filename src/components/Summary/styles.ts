@@ -18,15 +18,18 @@ interface SummaryCardProps {
 }
 
 export const SummaryCard = styled.div<SummaryCardProps>`
-  background: ${props => props.variant === 'green' ? props.theme['green-700'] : props.theme['gray-600']};
+  background: ${(props) =>
+    props.variant === 'green'
+      ? props.theme['green-700']
+      : props.theme['gray-600']};
   border-radius: 6px;
   padding: 2rem;
 
-  header{
+  header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    color: ${props => props.theme['gray-300']};
+    color: ${(props) => props.theme['gray-300']};
   }
 
   strong {
