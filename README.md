@@ -22,3 +22,11 @@ You can also filter through the registers and see how much you spent or gained b
 - React Hook Form
 - Phosphor Icons
 - use-context-selector
+
+## Running the application
+- To run the application, you need to have Node JS installed
+- Download the application and extract the files
+- Enter the application folder
+- Run "npm install" to install the dependencies
+- Run "npm run dev:server" to run the fake API
+- Run "npm run dev" to run the application
