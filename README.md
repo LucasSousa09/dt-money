@@ -6,7 +6,7 @@ The finances application will help you to organize your life savings.
 
 After you register your income and outcome, the application will calculate your financial summary.
 
-![images](https://github.com/LucasSousa09/dt-money/blob/main/src/assets/dt-money.png)
+![images](https://github.com/LucasSousa09/dt-money/blob/main/src/assets/dt-money_modal.png)
 
 You can also filter through the registers and see how much you spent or gained by categories. You can also search specific transactions.
 
